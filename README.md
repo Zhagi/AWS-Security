@@ -43,3 +43,9 @@ Repeat these steps for each module, following the order of dependencies when app
 
 
 ## Architecture Diagram
+
+![AWS Architecture Diagram](https://github.com/Zhagi/AWS-Security/blob/main/Images/AWS%20Architecture%20Diagram.png?raw=true)
+
+
+## Acknowledgements
+You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
